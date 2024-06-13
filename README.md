@@ -7,6 +7,6 @@
 Link to Notion containing Syllabus for Everything: https://vanilla-mall-a58.notion.site/b8902df4a7a642ffbfb570eb12827091?v=4e4556385d314223be31eddc66ef6c7c&pvs=4 
 
 
-Books 
+# Books 
 
-- [Introduction to Machine Learning With Python](https://learning.oreilly.com/library/view/introduction-to-machine/9781449369880/)
+- ###[Introduction to Machine Learning With Python](https://learning.oreilly.com/library/view/introduction-to-machine/9781449369880/)
